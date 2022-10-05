@@ -1,0 +1,20 @@
+What is Flutter?
+
+Flutter is a UI toolkit For building Fast, Beautiful,Natively Compliled Application for mobile web and desktop 
+with one programming language and single Codebase it was developed by google and Now Manages by an ECMA Standards .
+Flutter Apps Uses dart Programming Language for creating an app 
+
+Flutter Framework are Known as cross Platform Development tools. it has ability to write one code and can deploy on the various platfrom
+
+Features Of Flutter:- 
+
+1.Open-Source
+2.Cross-platform
+3.Hot Reload
+4.Accessible Native Features and SDKs
+5.Minimal code
+6.Widgets
+
+Flutter Mainly Optimized for 2D Mobile Apps That can Run Both Android and Ios Platfrom 
+
+Flutter is a full-fledged SDK, it includes a rendering engine, ready-made widgets, testing and integration APIs, 
