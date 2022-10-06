@@ -1,0 +1,19 @@
+The Flutter architecture mainly comprises of four components.
+
+Flutter Engine
+Foundation Library
+Widgets
+Design Specific Widgets
+
+
+Flutter Engine:-It implements Flutter core libraries that include animation and graphics, file and network I/O, plugin architecture, 
+accessibility support, and a dart runtime for developing, compiling, and running Flutter applications.
+
+Foundation Library:-It contains all the required packages for the basic building blocks of writing a Flutter application.
+
+Widgets:-In Flutter, everything is a widget, which is the core concept of this framework. Widget in the Flutter is basically a 
+user interface component that affects and controls the view and interface of the app
+
+Design Specific Widgets:-The Flutter framework has two sets of widgets that conform to specific design languages.
+These are Material Design for Android application and Cupertino Style for IOS application
+
