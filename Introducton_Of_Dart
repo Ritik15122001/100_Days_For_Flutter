@@ -1,0 +1,25 @@
+Dart is an open-source, general-purpose, object-oriented programming language with C-style syntax developed by Google in 2011.it is used to created for user interface
+for web and Mobile apps . it just like a c programming almost syntax of c  programming is matched with dart Language 
+
+Syntax:- 
+void main() {  
+  for (int i = 0; i < 5; i++) {  
+    print('hello ${i + 1}');  
+  }  
+}  
+
+
+
+Dart is a compiled language so you cannot execute your code directly; instead, the compiler parses it and transfer it into machine code.
+Syntax defines a set of rules for writing programs. Every language specification defines its own syntax. A Dart program is composed of −
+
+Variables and Operators
+Classes
+Functions
+Expressions and Programming Constructs
+Decision Making and Looping Constructs
+Comments
+Libraries and Packages
+Typedefs
+Data structures represented as Collections / Generics
+
