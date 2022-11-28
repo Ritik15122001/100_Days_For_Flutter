@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+void main(List<String> args) {
+  runApp(APP());
+}
+
+class APP extends StatelessWidget {
+  const APP({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        home: Scaffold(
+      appBar: AppBar(
+        title: const Text('Ritik'),
+      ),
+      body: Center(
+        child: OutlinedButton(
+            child: Text("Click Here"),
+            onPressed: (() {
+              print("Text Button Tapped");
+            })),
+      ),
+    ));
+  }
+}
